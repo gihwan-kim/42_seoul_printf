@@ -12,6 +12,7 @@ nfge conversion 추가
 l ll h hh 추가  
 '# +' 추가  
 
+### printf 구현 계획
 > %[flags][width][.precision][length][specifier]
 ```
 controller -  : view, module에 실행명령을 내린다.
