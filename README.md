@@ -1,6 +1,7 @@
 # 42_seoul_printf
 This project is printf project in 42 seoul course
 
+<img src ="https://user-images.githubusercontent.com/33623130/80716161-49bd7480-8b32-11ea-8682-2f5324b398e8.jpg"> </img>
 
 ### Madnatory part
 
