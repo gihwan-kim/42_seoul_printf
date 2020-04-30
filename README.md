@@ -5,7 +5,6 @@ This project is printf project in 42 seoul course
 < Madnatory part >
 
 cspdiuxX% 만 구현
-
 '-0.*', minimum fieldwidth with all conversions 기능 구현
 
 < bonus part >
