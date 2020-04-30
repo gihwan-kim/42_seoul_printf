@@ -2,21 +2,18 @@
 This project is printf project in 42 seoul course
 
 
-< Madnatory part >
+### Madnatory part
 
-cspdiuxX% 만 구현
-'-0.*', minimum fieldwidth with all conversions 기능 구현
+cspdiuxX% 만 구현  
+'-0.*', minimum fieldwidth with all conversions 기능 구현  
 
-< bonus part >
+### bonus part
+nfge conversion 추가  
+l ll h hh 추가  
+'# +' 추가  
 
-nfge conversion 추가
-
-l ll h hh 추가
-
-'# +' 추가
-
-%[flags][width][.precision][length][specifier]
-
+> %[flags][width][.precision][length][specifier]
+```
 controller -  : view, module에 실행명령을 내린다.
                 1. 바로 출력 가능
                     view 실행
@@ -102,3 +99,4 @@ precision 에 맞게 해당 아이템을 수정(아이템을 직접 수정하게
 1. precision : item 의 크기결정,
 2. width : item 크기와 비교 output 길이 정하기
 3. 문자열 규칙에 맞게 채우기
+```
