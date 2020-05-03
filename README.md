@@ -3,6 +3,9 @@ This project is printf project in 42 seoul course
 
 <img src ="https://user-images.githubusercontent.com/33623130/80716161-49bd7480-8b32-11ea-8682-2f5324b398e8.jpg"> </img>
 
+* no_norminette_printf folder : norminette 처리 하지않은 초기 printf 소스코드
+* norminette_printf folder    : norminette 처리한 printf 소스 
+
 ### Madnatory part
 
 cspdiuxX% 만 구현  
